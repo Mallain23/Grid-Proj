@@ -1,0 +1,31 @@
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.row {
+  margin-bottom: 30px;
+}
+
+main {
+  padding-top: 100px;
+}
